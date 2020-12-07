@@ -1,4 +1,3 @@
-import React from 'react';
 
 export default {
     lists: [
@@ -21,6 +20,7 @@ export default {
             id: '4',
             header: 'Fourth list',
             cardIds: ['l', 'm'],
+
         },
     ],
     allCards: {
